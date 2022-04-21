@@ -2,7 +2,7 @@
 
 Prerequisites: npm
 
-The application is also hosted on StackBlitz at https://stackblitz.com/edit/react-edkhuf.
+The application is also hosted online on StackBlitz at https://stackblitz.com/edit/react-edkhuf.
 
 To run application locally, use the following commands:
 
