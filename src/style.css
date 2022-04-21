@@ -1,0 +1,16 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.date-picker {
+  width: 200px;
+}
+
+.generate-query {
+  margin-bottom: 10px;
+}
+
+.filter {
+  margin-top: 20px;
+}
